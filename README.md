@@ -1,13 +1,11 @@
 # NBME-Exam-Formatter
 Only tested for Step-1 exams, could work for others havent checked. Mac Only.
 
-Warning: Didn't get the app officialy notarized by apple since it costs money, feel free to read through the code and compile it yourself if you are suspicious
-
 Instructions:
-1. Download the .app from releases [Download Here]()
+1. Download the .app from releases [Download Here](https://github.com/zone6draco/NBME-Formatter/releases)
 2. If it says untrusted developer right click the app and press open to bypass, or allow it in System Preferences
 3. Download CSV file from NBME Insights page. See below on how to do that.
-4. Pick your output save folder, or leave alone for default (In your Downloads folder)
+4. Pick your output save folder, or leave alone for default (In your ~/Downloads folder)
 5. Select your .CSV
 6. Press Convert
 
@@ -26,7 +24,7 @@ How to get CSV:
 
 <img width="822" height="360" alt="CleanShot 2025-12-29 at 18 37 44@2x" src="https://github.com/user-attachments/assets/269e03a4-822f-45d0-a8f3-1ed8dcfd89e7" />
 
-
+_Warning: Didn't get the app officialy notarized by apple since it costs money, feel free to read through the code and compile it yourself if you are suspicious_
 
 
 
