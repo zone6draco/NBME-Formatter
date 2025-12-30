@@ -17,7 +17,7 @@ Only tested for Step-1 exams, could work for others havent checked. Mac Only.
 - Option to hide the correct answer so you can think it over again without accidentally seeing the answer
 - Adds table of contents to PDF so you can jump around when studying
 
-  <img width="356" height="426" alt="Screenshot 2025-12-30 at 1 13 26 AM" src="https://github.com/user-attachments/assets/82203e59-4e04-4c71-bdc3-5a6804ff983b" /><img width="776" height="426" alt="Screenshot 2025-12-30 at 1 17 06 AM" src="https://github.com/user-attachments/assets/3fdccd77-ffcc-4c44-b294-805da29327ea" /><img width="776" height="426" alt="Screenshot 2025-12-30 at 1 16 30 AM" src="https://github.com/user-attachments/assets/75939736-bdf7-4b11-ac80-bdbab0774c60" />
+  <img width="356" height="426" alt="Screenshot 2025-12-30 at 1 13 26 AM" src="https://github.com/user-attachments/assets/82203e59-4e04-4c71-bdc3-5a6804ff983b" /><img width="776" height="426" alt="Screenshot 2025-12-30 at 1 17 06 AM" src="https://github.com/user-attachments/assets/3fdccd77-ffcc-4c44-b294-805da29327ea" /><img width="776" height="426" alt="Screenshot 2025-12-30 at 1 16 30 AM" src="https://github.com/user-attachments/assets/75939736-bdf7-4b11-ac80-bdbab0774c60" /> <img width="776" height="426" alt="Screenshot 2025-12-30 at 12 00 28 PM" src="https://github.com/user-attachments/assets/7e5c6ddd-a0cb-4dc3-a7ec-ea98cd971273" />
 
 ## How to get CSV:
 <img width="1080" height="424" alt="CleanShot 2025-12-29 at 18 37 08@2x" src="https://github.com/user-attachments/assets/2d11c180-b072-4f36-b924-1e2a132ef904" />
@@ -25,6 +25,9 @@ Only tested for Step-1 exams, could work for others havent checked. Mac Only.
 <img width="1130" height="349" alt="Screenshot 2025-12-29 at 6 37 32 PM" src="https://github.com/user-attachments/assets/3f69fda5-9f98-49ee-88ed-17471403ff63" />
 
 <img width="822" height="360" alt="CleanShot 2025-12-29 at 18 37 44@2x" src="https://github.com/user-attachments/assets/269e03a4-822f-45d0-a8f3-1ed8dcfd89e7" />
+
+
+
 
 
 
