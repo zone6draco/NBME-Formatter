@@ -2,7 +2,7 @@
 Only tested for Step-1 exams, could work for others havent checked. Mac Only.
 
 ## Instructions:
-1. Download the .app from releases [Download Here](https://github.com/zone6draco/NBME-Formatter/releases)
+1. Download the .app from releases [Download Here](https://github.com/zone6draco/NBME-Formatter/releases/tag/1.0.0)
 2. When you try to run the app, it is going to say the app is unsafe, unverified, etc. Open System Preferences, go to Privacy & Security, scroll to the bottom and allow. _Warning: Didn't get the app officially notarized by apple since it costs money, feel free to read through the code and compile it yourself if you are suspicious_
 3. Download CSV file from NBME Insights page. See below on how to do that.
 4. Pick your output save folder, or leave alone for default (In your ~/Downloads folder)
