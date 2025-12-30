@@ -20,11 +20,14 @@ What it does:
 - Adds table of contents to PDF so you can jump around when studying
 
 How to get CSV:
-<img width="1080" height="424" alt="CleanShot 2025-12-29 at 18 37 08@2x" src="https://github.com/user-attachments/assets/e1c3c19a-73c2-4dbc-8db0-0808e0f9459f" />
+<img width="1080" height="424" alt="CleanShot 2025-12-29 at 18 37 08@2x" src="https://github.com/user-attachments/assets/2d11c180-b072-4f36-b924-1e2a132ef904" />
 
-<img width="1130" height="349" alt="Screenshot 2025-12-29 at 6 37 32 PM" src="https://github.com/user-attachments/assets/6eea5852-6780-42dd-b358-f789d454ba4c" />
+<img width="1130" height="349" alt="Screenshot 2025-12-29 at 6 37 32 PM" src="https://github.com/user-attachments/assets/3f69fda5-9f98-49ee-88ed-17471403ff63" />
 
-<img width="822" height="360" alt="CleanShot 2025-12-29 at 18 37 44@2x" src="https://github.com/user-attachments/assets/655980e8-0baa-414e-a648-11f12557bb60" />
+<img width="822" height="360" alt="CleanShot 2025-12-29 at 18 37 44@2x" src="https://github.com/user-attachments/assets/269e03a4-822f-45d0-a8f3-1ed8dcfd89e7" />
+
+
+
 
 
 
